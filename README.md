@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Sales Management App Django</h1>
   
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/concaption/Sales-Management-Django/graphs/contributors/)
+![GitHub contributors](https://img.shields.io/github/contributors/concaption/Sales-management-system-django?color=%2333d679&style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
