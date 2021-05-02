@@ -13,7 +13,7 @@
 Clone the Repo and install the requirements
 
 ```
-git clone https://github.com/concaption/Sales-Management-Django.git
+git clone https://github.com/concaption/Sales-Management-System-Django.git
 cd Sales-Management-Django
 pip install -r requirements.txt
 python manage.py makemigrations
