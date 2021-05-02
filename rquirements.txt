@@ -1,0 +1,10 @@
+pillow 
+django-crsipy-forms
+matplotlib
+seaborn
+pandas
+xhtml2pdf
+gunicorn 
+dj-database-url 
+whitenoise 
+psycopg2
